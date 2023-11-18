@@ -131,3 +131,17 @@ button {
     font-style: normal;
     align-self: flex-end;
 }
+
+.call-to-action-section {
+    padding: 96px;
+    color: #F9FAF8;
+}
+
+.call-to-action-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 32px;
+    border-radius: 8px;
+}
