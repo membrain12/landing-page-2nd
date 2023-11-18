@@ -45,6 +45,11 @@ ul {
     flex-basis: 50%;
 }
 
+.hero-text {
+    font-size: 48px;
+    font-weight: 800;
+}
+
 img {
     background-color: grey;
     text-align: center;
