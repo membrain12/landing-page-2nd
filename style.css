@@ -13,6 +13,7 @@ header {
     align-items: center;
     padding: 48px;
     padding-top: 0;
+    padding-bottom: 24px;
     margin: 0;
 }
 
@@ -48,9 +49,24 @@ ul {
 .hero-text {
     font-size: 48px;
     font-weight: 800;
+    flex-grow: 1;
 }
 
 img {
     background-color: grey;
     text-align: center;
+    height: 200px;
+    width: 400px;
+    line-height: 200px;
+}
+
+button {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+    font-weight: bolder;
+    font-style: 18px;
 }
