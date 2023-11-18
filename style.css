@@ -69,6 +69,7 @@ button {
     border-radius: 8px;
     font-weight: bolder;
     font-style: 18px;
+    cursor: pointer;
 }
 
 .card-section {
