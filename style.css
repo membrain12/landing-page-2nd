@@ -159,3 +159,16 @@ button {
 #bot-button {
     border: 1px solid #F9FAF8;
 }
+
+footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 16px;
+}
+
+footer > div {
+    font-size: 18px;
+}
